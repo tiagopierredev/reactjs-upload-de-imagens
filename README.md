@@ -49,6 +49,10 @@ $ yarn dev
 # O servidor irá inicializar no <http://localhost:3000>
 ```
 
+## 👨🏻‍💻 Deploy da Aplicação
+
+<img src="https://github.com/tiagopierre/reactjs-upload-de-imagens/blob/main/screencapture/Grava%C3%A7%C3%A3o%20de%20Tela%202022-03-30%20%C3%A0s%2010.44.46.gif?raw=true" alt="screenshot"/>
+
 ## 📁 Bibliotecas
 
 - [ChakraUi](https://chakra-ui.com/)
