@@ -16,7 +16,7 @@
 
 ## 💻 Projeto
 
-Aplicação que permite o upload de imagens em determinados formatos e ainda incluindo nome e descrição para elas.
+Aplicação que permite o upload de imagens em determinados formatos (PNG, JPEG e GIF) e ainda incluindo nome e descrição para elas.
 > Status do Projeto: :heavy_check_mark: (_concluído_)
 
 
@@ -35,10 +35,10 @@ Antes de começar :checkered_flag:, você precisa ter [Git](https://git-scm.com)
 
 ```bash
 # Clonar este projeto
-$ git clone https://github.com/tiagopierre/DashGo.git
+$ git clone https://github.com/tiagopierre/reactjs-upload-de-imagens.git
 
 # Acessar a pasta
-$ cd dashgo
+$ cd reactjs-upload-de-imagens
 
 # Instalar as dependências 
 $ yarn
@@ -52,13 +52,11 @@ $ yarn dev
 ## 📁 Bibliotecas
 
 - [ChakraUi](https://chakra-ui.com/)
-- [ApexCharts](https://apexcharts.com/)
 - [Axios](https://axios-http.com/) 
-- [Axios](https://axios-http.com/)
-- [Yup](https://www.npmjs.com/package/yup)
-- [Faker](https://www.npmjs.com/package/faker)
-- [Mirage](https://miragejs.com/)
 - [ReactQuery](https://react-query.tanstack.com/)
+- [React Hook Form](https://react-hook-form.com/)
+- [FaunDb](https://fauna.com/)
+- [ImgBB](https://pt-br.imgbb.com/)
 
 ## 📝 Licença
 
